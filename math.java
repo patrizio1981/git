@@ -3,3 +3,5 @@ public class Main {
     System.out.println(Math.max(5, 10));  
   }
 }
+
+changed
